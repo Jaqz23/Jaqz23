@@ -27,11 +27,8 @@
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaqz23&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaqz23&layout=compact&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaqz23&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaqz23&show_icons=true&theme=radical)
 
 </div>
