@@ -9,7 +9,7 @@
 - 🧠 I'm currently learning **React**.
 - 📫 How to reach me:  
   [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavojaquezr23@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-j%C3%A1quez-rosa-a76aa0341/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-j%C3%A1quez-rosa/)
 
 
 ## 🛠️ Languages and Tools
